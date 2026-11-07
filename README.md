@@ -1,5 +1,10 @@
 # VeloriaVault Headless v2 · Archive
 
+[![Stars](https://img.shields.io/github/stars/ak1458/veloriavault-headless-v2?style=flat-square)](https://github.com/ak1458/veloriavault-headless-v2/stargazers)
+[![Watching](https://img.shields.io/github/watchers/ak1458/veloriavault-headless-v2?style=flat-square)](https://github.com/ak1458/veloriavault-headless-v2/watchers)
+[![Forks](https://img.shields.io/github/forks/ak1458/veloriavault-headless-v2?style=flat-square)](https://github.com/ak1458/veloriavault-headless-v2/forks)
+[![Activity](https://img.shields.io/github/last-commit/ak1458/veloriavault-headless-v2?style=flat-square)](https://github.com/ak1458/veloriavault-headless-v2/activity)
+
 Historical Next.js headless-commerce implementation, kept as an archived source reference.
 
 [![Status: Archived](https://img.shields.io/badge/Status-Archived-64748b?style=flat-square)](https://github.com/ak1458/veloriavault-headless-v2)
